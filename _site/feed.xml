@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <description>Miguel Rivas</description>
-    <link>https://mrivaslezama.github.io/jekyllblog//jekyllblog/</link>
-    <atom:link href="https://mrivaslezama.github.io/jekyllblog//jekyllblog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 08 Aug 2024 22:47:31 -0400</pubDate>
-    <lastBuildDate>Thu, 08 Aug 2024 22:47:31 -0400</lastBuildDate>
+    <description>Developer</description>
+    <link>http://localhost:4000/jekyllblog/</link>
+    <atom:link href="http://localhost:4000/jekyllblog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 08 Aug 2024 22:55:32 -0400</pubDate>
+    <lastBuildDate>Thu, 08 Aug 2024 22:55:32 -0400</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
@@ -28,8 +28,8 @@
 &lt;p&gt;So I have two questions for atheists: 1)What is the source of this immaterial reality known as reason that we are all presupposing, utilizing in our discussions, and accusing one other of violating on occasion?; and 2) If there is no God and we are nothing but chemicals, why should we trust anything we think, including the thought that there is no God?&lt;/p&gt;
 </description>
         <pubDate>Wed, 07 Aug 2024 06:18:00 -0400</pubDate>
-        <link>https://mrivaslezama.github.io/jekyllblog//jekyllblog/news/2024/08/07/why-trust-reason-as-atheist.html</link>
-        <guid isPermaLink="true">https://mrivaslezama.github.io/jekyllblog//jekyllblog/news/2024/08/07/why-trust-reason-as-atheist.html</guid>
+        <link>http://localhost:4000/jekyllblog/news/2024/08/07/why-trust-reason-as-atheist.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyllblog/news/2024/08/07/why-trust-reason-as-atheist.html</guid>
         
         
         <category>news</category>
@@ -103,8 +103,8 @@ The Rapture of the Church, which is the blessed, imminent hope of the Church, is
 (Titus 2:13; 1 Thess. 1:10; 4:13-18; 5:4-10; 2 Cor. 5:9-11; 1 Cor. 3:12-15; Rev. 3:10; Matt. 24:21, 29-30; 25:31; Rev. 20:1-6,11-15; Matt. 25:46)&lt;/p&gt;
 </description>
         <pubDate>Wed, 07 Aug 2024 06:18:00 -0400</pubDate>
-        <link>https://mrivaslezama.github.io/jekyllblog//jekyllblog/comments/2024/08/07/statement-of-faith.html</link>
-        <guid isPermaLink="true">https://mrivaslezama.github.io/jekyllblog//jekyllblog/comments/2024/08/07/statement-of-faith.html</guid>
+        <link>http://localhost:4000/jekyllblog/comments/2024/08/07/statement-of-faith.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyllblog/comments/2024/08/07/statement-of-faith.html</guid>
         
         
         <category>comments</category>
@@ -128,8 +128,8 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 </description>
         <pubDate>Sun, 10 Nov 2013 07:18:00 -0300</pubDate>
-        <link>https://mrivaslezama.github.io/jekyllblog//jekyllblog/thriller/comedy/horror/2013/11/10/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">https://mrivaslezama.github.io/jekyllblog//jekyllblog/thriller/comedy/horror/2013/11/10/welcome-to-jekyll.html</guid>
+        <link>http://localhost:4000/jekyllblog/thriller/comedy/horror/2013/11/10/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyllblog/thriller/comedy/horror/2013/11/10/welcome-to-jekyll.html</guid>
         
         
         <category>Thriller</category>
