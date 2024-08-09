@@ -1,5 +1,5 @@
-name: Your New Jekyll Site
-description: Developer
+name: Blog personal
+description: Miguel Rivas
 meta_description: "Jekyll Site, Blogging"
 
 markdown: kramdown
@@ -7,10 +7,10 @@ highlighter: pygments
 logo: false
 paginate: 15
 baseurl: /jekyllblog
-domain_name: 'http://hieu2014.github.io'
+domain_name: 'https://mrivaslezama.github.io/jekyllblog/'
 google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url:            'https://hieu2014.github.io/jekyllblog/'
-author:         'Hieu Tran'
+url:            'https://mrivaslezama.github.io/jekyllblog/'
+author:         'Miguel Rivas'

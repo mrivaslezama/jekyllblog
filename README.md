@@ -54,3 +54,4 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FO
 # jekyllblog
 
 https://mrivaslezama.github.io/jekyllblog/
+https://mrivaslezama.github.io/jekyllblog/about.html
