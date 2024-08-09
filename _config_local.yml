@@ -1,6 +1,6 @@
 name: Jekyll Blog
 description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+meta_description: "Blog, analisis, opiniones y publicaciones"
 
 markdown: kramdown
 highlighter: pygments
@@ -12,5 +12,5 @@ google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url:            'https://hieu2014.github.io/jekyllblog/'
-author:         'Hieu Tran'
+url:            'https://mrivaslezama.github.io/jekyllblog/'
+author:         'Miguel Rivas'
